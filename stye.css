@@ -1,0 +1,30 @@
+.navbar{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+.navitems{
+display: flex;
+flex-direction: row;
+gap: 56px;
+}
+
+
+
+
+
+
+.hero button{
+background-color: brown;
+
+}
+.hero{
+    display: flex;
+flex-direction: row;
+}
+.image img {
+    width: 55px;
+    height: 55px;
+    border-radius: 55%;
+}
